@@ -1,3 +1,4 @@
-@import url(./stilos/root.css);
-@import url(./stilos/global.css);
-@import url(page.css);
+
+@import "./stilos/global.css";
+@import "./stilos/root.css";
+@import "./stilos/pages.css";
