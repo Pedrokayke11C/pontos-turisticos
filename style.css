@@ -1,4 +1,3 @@
-
-@import "./stilos/global.css";
-@import "./stilos/root.css";
-@import "./stilos/pages.css";
+@import "./estilos/root.css";
+@import "./estilos/page.css";
+@import "./estilos/global.css";
